@@ -1,7 +1,7 @@
 # Hi👋 I'm Laura 👩‍💻
 
 <p align="center">
-I'm a software developer with a strong passion for creating solutions in both front-end and data domains. I graduated with a degree in Electrical Engineering and also hold an MBA in Software Engineering. Currently, I'm putting my skills to work at americanas s.a. as a Data Engineer, but I also have a background on web development, especially on the front-end side. Additionally, I am proficient in Digital Analytics, using tools like Google Analytics, Google Tag Manager, Firebase and BigQuery for in-depth data collection and analysis.
+I'm a software developer with a strong passion for creating solutions in both front-end and data domains. I graduated with a degree in Electrical Engineering and also hold an MBA in Software Engineering. Currently, I'm putting my skills to work at americanas s.a. as a Data Engineer, but I also have a background in web development, especially on the front-end side. Additionally, I am proficient in Digital Analytics, using tools like Google Analytics, Google Tag Manager, Firebase, and BigQuery for in-depth data collection and analysis.
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@ I'm a software developer with a strong passion for creating solutions in both fr
   <a href="mailto:laurabeatrizgr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=laurabrosa&color=blueviolet" />  
+    <img src="https://komarev.com/ghpvc/?username=laurabrosa&abbreviated=true&color=blueviolet" />  
 </p> 
 
 ## 🛠️ Technologies
@@ -57,18 +57,3 @@ I'm a software developer with a strong passion for creating solutions in both fr
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laurabrosa&hide=stars&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabrosa&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**laurabrosa/laurabrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
