@@ -1,8 +1,6 @@
 # Hi👋 I'm Laura 👩‍💻
 
-<p align="center">
 I'm a software developer with a strong passion for creating solutions in both front-end and data domains. I graduated with a degree in Electrical Engineering and also hold an MBA in Software Engineering. Currently, I'm putting my skills to work at americanas s.a. as a Data Engineer, but I also have a background in web development, especially on the front-end side. Additionally, I am proficient in Digital Analytics, using tools like Google Analytics, Google Tag Manager, Firebase, and BigQuery for in-depth data collection and analysis.
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laurabrosa" target="_blank">
@@ -56,4 +54,4 @@ I'm a software developer with a strong passion for creating solutions in both fr
 ## 🥇 Profile Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laurabrosa&hide=stars&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabrosa&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabrosa&layout=compact&count_private=true&theme=dracula)
