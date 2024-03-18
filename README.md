@@ -1,6 +1,6 @@
 # Hi👋 I'm Laura 👩‍💻
 
-I am a software developer with a strong passion for creating solutions in both the front-end development and data engineering fields. I hold a bachelor's degree in Electrical Engineering and an MBA in Software Engineering. Currently, I am utilizing my skills as a Data Engineer at americanas s.a., where I focus on digital analytics, using tools like Google Analytics, Google Tag Manager, Firebase, and Google Cloud Platform's services for in-depth data collection and analysis. Additionally, my background extends to web development, particularly in front-end technologies. I have employed JavaScript, TypeScript, Gatsby.js, Next.js, and React to develop responsive and visually appealing websites.
+I am a software developer with a strong passion for creating solutions in both the web development and data fields. I hold a bachelor's degree in Electrical Engineering and an MBA in Software Engineering. Currently, I am utilizing my skills as a Data Engineer at americanas s.a., where I focus on digital analytics, using tools like Google Analytics, Google Tag Manager, Firebase, and Google Cloud Platform's services for in-depth data collection and analysis. Additionally, my background extends to web development, particularly in front-end technologies. I have employed JavaScript, TypeScript, Gatsby.js, Next.js, and React to develop responsive and visually appealing websites.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laurabrosa" target="_blank">
